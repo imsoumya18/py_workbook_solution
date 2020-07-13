@@ -1,1 +1,4 @@
-This is the solution of the problems in the book # The Python Workbook by Ben Stephenson
+This is the solution of the problems in the book **_The Python Workbook by Ben Stephenson.
+
+
+The PDF of this book is given in the repository.
